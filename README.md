@@ -17,6 +17,7 @@ Google Earth Engine: Integration for satellite data.
 # Data Sources
 Sentinel-2 Satellite Data: High-resolution, multispectral imagery.
 Historical Landslide Data: For training and validating the detection model.
+https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense?resource=download-directory&select=TrainData
 # Contributors:
 Alisha Chaudhary
 Eliza Sharma
