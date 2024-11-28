@@ -1,0 +1,16 @@
+# Usage: pip install -r requirements.txt
+
+#Suggested-------------------
+h5py==3.8.0              # For reading and writing .h5 files (HDF5 format)
+numpy==1.23.4            # For numerical computations
+opencv-python==4.7.0.72   # For image manipulation and processing
+Pillow==9.4.0            # For image opening and saving (PIL fork)
+torch==2.1.0             # PyTorch for deep learning (YOLOv8 is built on PyTorch)
+torchvision==0.15.0      # For computer vision tasks (used with PyTorch)
+ultralytics==8.0.45      # YOLOv8 implementation by Ultralytics
+matplotlib==3.7.2        # For visualization and plotting
+scikit-learn==1.2.1      # For machine learning utilities
+scipy==1.10.1            # For scientific computing (used in some preprocessing)
+pandas==1.5.3            # For data manipulation and analysis (if using CSV files)
+pyyaml==6.0              # For YAML file processing (for YOLO dataset configuration)
+tensorboard==2.13.0      # For monitoring training (if using TensorBoard with YOLO)
