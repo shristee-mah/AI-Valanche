@@ -9,6 +9,7 @@ Transportation Safety: Minimize disruptions on roads and highways by timely inte
 # Technologies Used
 Satellite Imagery: Sentinel-2 for detailed terrain and spectral data.
 Object Detection: YOLOv8 for efficient and scalable landslide detection.
+We used GUI to visualize the data
 Programming and Libraries:
 Python: For data processing, model training, and detection.
 Ultralytics YOLOv8: Implementation of the object detection model.
