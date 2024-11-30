@@ -1,0 +1,6 @@
+we used efficient net for this Landslide detection using satellite imagery.It involves understanding architecture of efficient net, preprocessing data set, custom sizing the image and creating transfer learning architecture, inference testing. This file is present in google colab.
+
+https://colab.research.google.com/drive/1uzIMrxhuh_OWo1zpw61MXWQzXTzLQ7GM?usp=sharing
+
+
+
